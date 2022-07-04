@@ -1,4 +1,4 @@
-# Installatiom 
+# Installation
 (Windows)
 1. Download and install RUSTUP-INIT.EXE: https://www.rust-lang.org/tools/install
 2. For windows system, also install Microsoft C++ Build Tools: https://visualstudio.microsoft.com/visual-cpp-build-tools/
