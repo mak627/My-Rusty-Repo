@@ -3,9 +3,12 @@
 1. Download and install RUSTUP-INIT.EXE: https://www.rust-lang.org/tools/install
 2. For windows system, also install Microsoft C++ Build Tools: https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
--- For other installation methods, see here: https://forge.rust-lang.org/infra/other-installation-methods.html
+For other installation methods, see here: https://forge.rust-lang.org/infra/other-installation-methods.html
 
-Check if RUST is installed, <rustc --version>
+Check if RUST is installed
+    > rustc --version
+Update rust
+    > rustup update
 
 # Using cargo
 1. Check if cargo is installed
