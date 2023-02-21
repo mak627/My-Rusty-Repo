@@ -6,9 +6,9 @@
 For other installation methods, see here: https://forge.rust-lang.org/infra/other-installation-methods.html
 
 Check if RUST is installed
-    > rustc --version
+    `rustc --version`
 Update rust
-    > rustup update
+    `rustup update`
 
 # Using cargo
 1. Check if cargo is installed
